@@ -1,1 +1,1 @@
-# Learning-Invariant-Representations-and-Risks
+# Learning-Invariant-Representations-and-Risks(LIRR)
